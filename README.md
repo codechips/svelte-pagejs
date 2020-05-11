@@ -9,3 +9,7 @@ An example of how you can use page.js in Svelte. Fully functional, but not featu
 $ yarn dev
 
 ```
+
+## There is more!
+
+For more interesting stuff like this follow me on [Twitter](https://twitter.com/codechips) or check out my blog https://codechips.me
